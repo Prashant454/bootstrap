@@ -39,6 +39,7 @@ linters:
     enabled: true
     exclude:
       - bootstrap.scss
+      - bootstrap-amp.scss
     style: silent
 
   DebugStatement:

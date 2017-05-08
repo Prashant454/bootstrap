@@ -1,0 +1,23 @@
+// Bootstrap overrides for AMP
+//
+
+
+$grid-breakpoints: (
+  xs: 0,
+  sm: 576px,
+  md: 768px
+) !default;
+
+$container-max-widths: (
+  sm: 540px,
+  md: 720px
+) !default;
+
+$grid-columns:               1 !default;
+$grid-gutter-width-base:     30px !default;
+
+$grid-gutter-widths: (
+  xs: $grid-gutter-width-base,
+  sm: $grid-gutter-width-base,
+  md: $grid-gutter-width-base
+) !default;

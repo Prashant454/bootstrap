@@ -1,0 +1,25 @@
+// Bootstrap AMP project minimal
+
+@import "custom-amp";
+@import "custom";
+@import "variables";
+
+//
+// Bootstrap AMP mixins
+//
+
+@import "mixins/breakpoints";
+@import "mixins/grid-framework";
+@import "mixins/grid";
+@import "mixins/hover";
+@import "mixins/background-variant";
+@import "mixins/box-shadow";
+@import "mixins/transition";
+@import "mixins/border-radius";
+@import "mixins/buttons";
+
+@import "grid";
+@import "buttons";
+@import "navbar";
+@import "utilities/flex";
+@import "utilities/background";
