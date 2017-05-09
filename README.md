@@ -46,7 +46,10 @@ We provide compiled CSS and JS (`bootstrap-amp.*`), as well as compiled and mini
 
 ### Compile Bootstrap AMP locally
 
-Run `npm amp-css` (or a specific NPM script) to rebuild distributed CSS and JavaScript files for AMP boostrap.
+You can customize, what should be in your bootstrap-amp file, by editing:
+ [bootstrap-amp.scss](https://github.com/jupeter/bootstrap/blob/v4-dev/scss/bootstrap-amp.scss) file.
+
+After change, run `npm amp-css` (or a specific NPM script) to rebuild distributed CSS and JavaScript files for AMP boostrap.
 
 ## Creators
 
